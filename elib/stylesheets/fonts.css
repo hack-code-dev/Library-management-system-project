@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body{
+	
+}
+
+.btn
+{
+background:blue;
+border-radius:0px;
+border-bottom:1px solid white;
+}
+#ubunt{
+	font-family: 'Ubuntu', sans-serif;
+	font-size:35px;
+}
+*{padding:0px;margin:0px;}
+
+.menulist 
+{
+list-style-type:none;
+background:green;
+margin-left:-15px;
+
+}
+.menulist li 
+{
+list-style-type:none;
+width:100%;
+text-align:left;
+}
+.menulist  ul 
+{
+text-align:left;
+width:100%;
+background:#008080;
+}
+.menulist ul li
+{
+width:100%;
+padding:5px;
+
+}
+.menulist ul li a
+{
+
+margin-left:30px;
+
+text-decoration:none;
+}
+.menulist li a
+{
+text-decoration:none;
+color:white;
+
+}
+.menulist  ul li :hover
+{
+	
+color:white;
+border-bottom:1px solid white;
+
+}

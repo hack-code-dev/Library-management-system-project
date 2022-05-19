@@ -1,0 +1,12 @@
+B.Tech
+MCA
+MBA
+Diploma
+B.sc
+B.com
+BA
+BBA
+BCA
+Intermediate(Science)
+Intermediate(Arts)
+SSC

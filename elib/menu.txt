@@ -1,0 +1,34 @@
+<div class="col-2">
+      <div class="panel col" style='height:100%'>
+  
+  <ul class='menulist'>
+  <li class="btn" data-toggle="collapse" data-target="#books"><a href='#'>
+  <i class="fa-solid fa-book-arrow-right"></i>
+  Librarian Section</a></li>
+  <ul id="books" class="collapse">
+  <li><a href='addbooks.php'>AddBooks</a></li>
+  <li><a href='viewbooks.php'>View Books</a></li>
+  <li><a href='Issuebooks.php'>Issue Books</a></li>
+  <li><a href='bs.php'>Return Books</a></li>
+  
+  </ul>
+  
+  
+  <li class="btn" data-toggle="collapse" data-target="#student"><a href='#'>Student Section</a></li>
+  <ul id="student" class="collapse">
+  <li><a href='std_reg.php'>Registraion</a></li>
+  <li><a href='std_update.php'>Update</a></li>
+  
+  
+  </ul>
+  
+  <li class="btn" data-toggle="collapse" data-target=""><a href='logout.php'>Logout</a></li>
+  
+  </ul>
+  
+  
+  
+
+  
+</div>
+    </div>
